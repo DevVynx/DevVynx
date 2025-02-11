@@ -1,6 +1,6 @@
 <div align="left">
 <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=979797&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Vinicius+Augusto!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=80A9BF&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Vinicius+Augusto!" alt="Typing SVG" />
 </a>
 </div>
 
@@ -33,12 +33,12 @@ Com dedicação e estudo contínuo, sigo evoluindo e me preparando para atuar ne
 #
 
 <div style="text-align: center;" align="center">
-  <h3>GitHub Stats</h3>
+  <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikelj917&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=00110101&title_color=FFFFFFFFF&text_color=DADADAFF&border_radius=3&border_color=FFF&icon_color=FFFFFFFFFFF" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikelj917&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&card_height=50&hide=issues&bg_color=00110101&title_color=80a9bf&text_color=DADADAFF&border_radius=3&border_color=FFF&icon_color=80a9bf" alt="GitHub stats">
 
   <a href="https://github.com/mikelj917/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mikelj917&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFFFFFFF&hide=html,scss,less&bg_color=00110101&text_color=DADADAFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mikelj917&line_height=10&card_width=200&card_height=100%&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=80a9bf&bg_color=00110101&text_color=DADADAFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
