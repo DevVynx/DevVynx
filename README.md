@@ -4,9 +4,11 @@
 </a>
 </div>
 
-<p align="left">Sou um estudante autodidata apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprimorar meus conhecimentos em JavaScript, explorando desde os fundamentos até conceitos mais avançados. Meu objetivo é me especializar na área de blockchain, aprofundando-me nas tecnologias e ferramentas que impulsionam esse ecossistema.
-Estou sempre em busca de novos desafios e oportunidades para expandir minhas habilidades, aplicando o que aprendo na construção de projetos práticos. Acredito que a programação vai muito além do código, é uma ferramenta poderosa para solucionar problemas, inovar e transformar ideias em realidade.
-Com dedicação e estudo contínuo, sigo evoluindo e me preparando para atuar nesse mercado dinâmico, sempre aberto a aprender e compartilhar conhecimento com a comunidade. 🚀
+<img align="right" alt="" height="190px" src="./src/raining.gif">
+
+<p align="left">Sou um estudante autodidata apaixonado por tecnologia e desenvolvimento de software. Atualmente, estudo JavaScript e tenho o objetivo de me especializar em blockchain, explorando suas aplicações e tecnologias.
+Também sou conhecido como DevVyne e estou sempre em busca de desafios, sempre aprimorando minhas habilidade. Acredito que programação é mais do que código é uma ferramenta para inovar e criar soluções.
+Com dedicação e aprendizado contínuo, sigo evoluindo e expandindo meus conhecimentos. 🚀
   
 #
 
