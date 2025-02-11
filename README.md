@@ -21,7 +21,7 @@ Com dedicação e aprendizado contínuo, sigo evoluindo e expandindo meus conhec
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/) -->
 
 
-<h3 align="left">My Stack</h3>
+<h3 align="left">My Stacks:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -34,13 +34,13 @@ Com dedicação e aprendizado contínuo, sigo evoluindo e expandindo meus conhec
 
 #
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+<div style="text-align: center;" align="left">
+  <h3>*GitHub Stats*</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikelj917&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&card_height=50&hide=issues&bg_color=00110101&title_color=80a9bf&text_color=DADADAFF&border_radius=3&border_color=FFF&icon_color=80a9bf" alt="GitHub stats">
 
   <a href="https://github.com/mikelj917/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mikelj917&line_height=10&card_width=200&card_height=100%&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=80a9bf&bg_color=00110101&text_color=DADADAFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mikelj917&line_height=10&card_width=300&card_height=100%&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=80a9bf&bg_color=00110101&text_color=DADADAFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
