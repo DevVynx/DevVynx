@@ -37,7 +37,7 @@ Também sou conhecido como DevVyne.
 ---
 
 <div style="text-align: center;" align="left">
-  <h3>*GitHub Stats*</h3>
+  <h3>🔥 GitHub Stats:</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikelj917&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&card_height=50&hide=issues&bg_color=00110101&title_color=80a9bf&text_color=DADADAFF&border_radius=3&border_color=FFF&icon_color=80a9bf" alt="GitHub stats">
 
