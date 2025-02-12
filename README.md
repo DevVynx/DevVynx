@@ -10,7 +10,7 @@
 Também sou conhecido como DevVyne e estou sempre em busca de desafios, sempre aprimorando minhas habilidade. Acredito que programação é mais do que código é uma ferramenta para inovar e criar soluções.
 Com dedicação e aprendizado contínuo, sigo evoluindo e expandindo meus conhecimentos. 🚀
   
-#
+---
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
@@ -21,7 +21,7 @@ Com dedicação e aprendizado contínuo, sigo evoluindo e expandindo meus conhec
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/) -->
 
 
-<h3 align="left">My Stacks:</h3>
+<h3 align="left">💭 Skills:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -32,7 +32,7 @@ Com dedicação e aprendizado contínuo, sigo evoluindo e expandindo meus conhec
   <img width="8" />
 </div>
 
-#
+---
 
 <div style="text-align: center;" align="left">
   <h3>*GitHub Stats*</h3>
@@ -45,7 +45,7 @@ Com dedicação e aprendizado contínuo, sigo evoluindo e expandindo meus conhec
 </div>
 
 
-#
+---
 
 
 <picture align="center">
