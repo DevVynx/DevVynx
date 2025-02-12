@@ -4,7 +4,7 @@
 </a>
 </div>
 
-<img align="right" alt="" height="190px" src="./src/raining.gif">
+[<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />](https://github.com/mikelj917?tab=repositories)
 
 <p align="left">Sou um estudante autodidata apaixonado por tecnologia e desenvolvimento de software. Atualmente, estudo JavaScript e tenho o objetivo de me especializar em blockchain, explorando suas aplicações e tecnologias.
 Também sou conhecido como DevVyne e estou sempre em busca de desafios, sempre aprimorando minhas habilidade. Acredito que programação é mais do que código é uma ferramenta para inovar e criar soluções.
