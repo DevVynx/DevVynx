@@ -1,8 +1,6 @@
-<div align="center">
-<a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8926E4&width=435&lines=%F0%9F%91%BB+Desenvolvedor+Web+%F0%9F%91%BB" alt="Typing SVG" />
-</a>
-</div>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8926E4&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%91%BB+Desenvolvedor+Web+%F0%9F%91%BB" alt="Typing SVG" /></a>
+</p>
 
 [<img align="right" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="370" height="210" />](https://github.com/mikelj917?tab=repositories)
 
