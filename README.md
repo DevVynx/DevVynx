@@ -8,7 +8,7 @@
 
 Sou um desenvolvedor autodidata de 18 anos, apaixonado por tecnologia e programação.
 
-Atualmente, estou me aprofundando em JavaScript, com o objetivo de dominar o desenvolvimento blockchain e explorar todo o seu potencial.
+Atualmente, estou me aprofundando em Desenvolvimento Front-end, com o objetivo de ser um desenvolvedor Full-Stack.
 
 Gosto de enfrentar novos desafios e aprimorar as minhas habilidades constantemente!
 
