@@ -39,19 +39,14 @@ Também sou conhecido como DevVyne.
 <div style="text-align: center;" align="left">
   <h3>🔥 GitHub Stats:</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mikelj917&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&card_height=50&hide=issues&bg_color=00110101&title_color=8926E4FF&text_color=DADADAFF&border_radius=3&border_color=FFF&icon_color=8926E4FF" alt="GitHub stats">
-
-  <a href="https://github.com/mikelj917/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mikelj917&line_height=10&card_width=300&card_height=100%&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=8926E4FF&bg_color=00110101&text_color=DADADAFF&border_radius=3&border_color=FFF&count_private=true" alt="Most Used Languages">
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikelj917&theme=radical&ring_color=8926E4&title_color=8926E4&text_color=ffffff&include_all_commits=true&custom_title=GitHub-Stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikelj917&layout=compact&langs_count=8&card_width=320&theme=radical&title_color=8926E4" />
+</a>
 </div>
 
 
 ---
 
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikelj917/mikelj917/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikelj917/mikelj917/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mikelj917/mikelj917/output/github-contribution-grid-snake.svg">
-</picture>
