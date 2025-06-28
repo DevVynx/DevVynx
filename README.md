@@ -43,7 +43,7 @@ Também sou conhecido como DevVyne.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikelj917&theme=radical&ring_color=8926E4&title_color=8926E4&text_color=ffffff&custom_title=GitHub-Stats" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikelj917&layout=compact&langs_count=8&card_width=320&theme=radical&title_color=8926E4" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikelj917&layout=compact&langs_count=9&card_width=320&theme=radical&title_color=8926E4" />
 </a>
 </div>
 
