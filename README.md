@@ -23,7 +23,7 @@ Também sou conhecido como DevVyne.
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com//) -->
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -69,7 +69,7 @@ Também sou conhecido como DevVyne.
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 GitHub Stats
 
 <p>
   <img 
