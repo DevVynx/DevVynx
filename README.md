@@ -1,10 +1,9 @@
 <!-- Banner -->
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/dmyna/dmyna/refs/heads/update_branding/assets/frieren-wallpaper.png" width="750" />](https://www.hdwallpapers.in/hu_tao_with_paimon_4k_hd_genshin_impact-wallpapers.html)
+<img src="/assets/raining.gif" width="750" />
 
 </div>
-
 
 
 <!-- Apresentação -->
@@ -16,9 +15,8 @@
 
 <div align="center">
 
-A curious programmer who tries every day to discover something new and important in this immensity of knowledge. <br>
-Lover of Rust, Clean Code and all the things that make a programmer's eyes shine.<br>
-<!-- [See my full presentation! ☕](https://dmyna.carrd.co) -->
+A curious front-end programmer, who seeks more and more knowledge every day, aiming to become a full-stack developer in the future. Lover of TypeScript, Clean Code, and everything that makes a programmer's eyes shine.<br>
+<!-- [See my full presentation! ☕]() -->
 
 > Being the richest man in the cemetery doesn't interest me. <br>
 > Going to bed at night saying I did something wonderful is what matters to me. <br>
@@ -59,8 +57,10 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 
 <br>
 
-<!-- Redes Sociais -->
-<div align="center">
+
+<!-- Estatisticas -->
+<div>
+
 
 ## Statistics
 
@@ -70,11 +70,4 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 
 ![](github-metrics.svg)
 
-</div>
-
-
-<!-- Header com Links -->
-<div align="center">
-
-![](https://visitor-badge.glitch.me/badge?page_id=dmyna&left_color=#101010&right_color=#9000ff)
 </div>
