@@ -32,7 +32,7 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 
 ## Technologies
 
-#### Languages / Libs
+#### Languages / Libs / FrameWorks
 <a><img title="Rust" src="https://github.com/dmyna/dmyna/blob/main/assets/rust.png" width="40px" align="center"></a>
 <a><img title="Clap" src="https://github.com/dmyna/dmyna/blob/main/assets/clap.png" width="40px" align="center"></a>
 [<img title="Bash" src="https://github.com/dmyna/dmyna/blob/main/assets/pngegg.png" width="40px" align="center">](https://www.pngegg.com/en/png-pxpgu)
