@@ -36,6 +36,7 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 <img title="Typescript" src="/assets/langs/js.png" width="40px" align="center">
 <img title="Typescript" src="/assets/langs/typescript-logo.png" width="40px" align="center">
 <br>
+<br>
 <img title="Tailwind" src="/assets/langs/TailwindCSS.png" width="40px" align="center">
 <img title="Node" src="/assets/langs/nodejs_plain_logo_icon_146409.png" width="40px" align="center">
 <img title="React" src="/assets/langs/React_logo_logotype_emblem.png" width="40px" align="center">
@@ -45,6 +46,7 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 
 <img title="HTML" src="/assets/langs/logo-html-5-256.png" width="40px" align="center">
 <img title="CSS" src="/assets/langs/logo-css-3-256.png" width="40px" align="center">
+<br>
 <br>
 <img title="Markdown" src="/assets/langs/4518935_markdown_icon.png" width="40px" align="center">
 <img title="JSON" src="/assets/langs/json-logo-png-transparent.png" width="40px" align="center">
