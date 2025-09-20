@@ -18,7 +18,7 @@
 
 A curious programmer who tries every day to discover something new and important in this immensity of knowledge. <br>
 Lover of Rust, Clean Code and all the things that make a programmer's eyes shine.<br>
-[See my full presentation! ☕](https://dmyna.carrd.co)
+<!-- [See my full presentation! ☕](https://dmyna.carrd.co) -->
 
 > Being the richest man in the cemetery doesn't interest me. <br>
 > Going to bed at night saying I did something wonderful is what matters to me. <br>
