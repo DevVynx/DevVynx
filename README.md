@@ -59,8 +59,7 @@ A curious front-end programmer, who seeks more and more knowledge every day, aim
 
 
 <!-- Estatisticas -->
-<div>
-
+<div align="center">
 
 ## Statistics
 
