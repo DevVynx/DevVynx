@@ -33,35 +33,26 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 ## Technologies
 
 #### Languages / Libs / FrameWorks
-[<img title="Typescript" src="/assets/langs/js.png" width="40px" align="center">]
-[<img title="Typescript" src="/assets/langs/typescript-logo.png" width="40px" align="center">]
-[<img title="Node" src="/assets/langs/nodejs_plain_logo_icon_146409.png" width="40px" align="center">]
-[<img title="React" src="/assets/langs/React_logo_logotype_emblem.png" width="40px" align="center">]
-[<img title="NextJS" src="/assets/langs/next-js_1.png" width="40px" align="center">]<br>
+<img title="Typescript" src="/assets/langs/js.png" width="40px" align="center">
+<img title="Typescript" src="/assets/langs/typescript-logo.png" width="40px" align="center">
+
+<img title="Tailwind" src="/assets/langs/TailwindCSS.png" width="40px" align="center">
+<img title="Node" src="/assets/langs/nodejs_plain_logo_icon_146409.png" width="40px" align="center">
+<img title="React" src="/assets/langs/React_logo_logotype_emblem.png" width="40px" align="center">
+<img title="NextJS" src="/assets/langs/next-js_1.png" width="40px" align="center"><br>
 
 #### Others Langs
 
-[<img title="HTML" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="40px" align="center">](https://logospng.org/logo-html-5/)
-[<img title="CSS" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="40px" align="center">](https://logospng.org/logo-css-3/)
+<img title="HTML" src="/assets/langs/logo-html-5-256.png" width="40px" align="center">
+<img title="CSS" src="/assets/langs/logo-css-3-256.png" width="40px" align="center">
 
-[<img title="Markdown" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" width="40px" align="center">](https://www.iconfinder.com/icons/4518935/markdown_icon)
-[<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="2px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
-[<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="2px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
-[<img title="JSON" src="https://cdn.freebiesupply.com/logos/large/2x/json-logo-png-transparent.png" width="40px" align="center">](https://freebiesupply.com/logos/json-logo/)
-[<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="2px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
-[<img title="TOML" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3244527/toml-icon-md.png" width="40px" align="center">](https://creazilla.com/nodes/3244527-toml-icon)
+<img title="Markdown" src="/assets/langs/4518935_markdown_icon.png" width="40px" align="center">
+<img title="JSON" src="/assets/langs/json-logo-png-transparent.png" width="40px" align="center">
 
-#### Tools / System
+#### Tools
 
-[<img title="VsCode" src="https://github.com/dmyna/dmyna/blob/main/assets/file-type-vscode.256x254.png" width="40px" align="center">](https://iconduck.com/icons/102490/file-type-vscode)
-[<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="5px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
-[<img title="Nvim" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nvim-icon.png" width="40px" align="center">](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nvim-icon.png)
-[<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="3px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
-[<img title="Git" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" width="40px" align="center">](https://freebiesupply.com/logos/git-icon-logo/) 
-[<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="3px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
-[<img title="NixOS" src="https://raw.githubusercontent.com/NixOS/nixos-artwork/refs/heads/master/logo/nix-snowflake-colours.svg" width="40px" align="center">](https://github.com/NixOS/nixos-artwork/blob/master/logo/nix-snowflake-colours.svg)
-[<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="3px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
-[<img title="TaskWarrior" src="https://github.com/dmyna/dmyna/blob/main/assets/taskwarrior.png" width="40px" align="center">](https://f-droid.org/repo/icons-640/kvj.taskw.3.png)
+<img title="VsCode" src="/assets/tools/file-type-vscode.256x254.png" width="40px" align="center">
+<img title="Git" src="/assets/tools/git-icon-logo-png-transparent.png" width="40px" align="center">
 </div>
 
 <br>
