@@ -32,9 +32,8 @@ A curious front-end programmer, who seeks more and more knowledge every day, aim
 
 #### Languages / Libs / FrameWorks
 <img title="Typescript" src="/assets/langs/js.png" width="40px" align="center">
-<img title="Typescript" src="/assets/langs/typescript-logo.png" width="40px" align="center">
-<br>
-<br>
+<img title="Typescript" src="/assets/langs/typescript-logo.png" width="40px" align="center"><br><br>
+
 <img title="Tailwind" src="/assets/langs/TailwindCSS.png" width="40px" align="center">
 <img title="Node" src="/assets/langs/nodejs_plain_logo_icon_146409.png" width="40px" align="center">
 <img title="React" src="/assets/langs/React_logo_logotype_emblem.png" width="40px" align="center">
@@ -67,6 +66,6 @@ A curious front-end programmer, who seeks more and more knowledge every day, aim
 
 <div align="center">
 
-![](github-metrics.svg)
+![Metrics](/github-metrics.svg)
 
 </div>
