@@ -33,7 +33,7 @@ A curious front-end programmer, who seeks more and more knowledge every day, aim
 #### Languages / Libs / FrameWorks
 <img title="Typescript" src="/assets/langs/js.png" width="40px" align="center">&nbsp;
 <img title="Typescript" src="/assets/langs/typescript-logo.png" width="40px" align="center">&nbsp;
-<img title="Node" src="/assets/langs/nodejs_plain_logo_icon_146409.png" width="40px" align="center"><br><br>
+<img title="Node" src="/assets/langs/nodejs_plain_logo_icon_146409.png" width="40px" align="center"><br>
 
 <img title="Tailwind" src="/assets/langs/TailwindCSS.png" width="40px" align="center">&nbsp;
 <img title="React" src="/assets/langs/React_logo_logotype_emblem.png" width="40px" align="center">&nbsp;
@@ -42,7 +42,7 @@ A curious front-end programmer, who seeks more and more knowledge every day, aim
 
 #### Others Langs
 <img title="HTML" src="/assets/langs/logo-html-5-256.png" width="40px" align="center">&nbsp;
-<img title="CSS" src="/assets/langs/logo-css-3-256.png" width="40px" align="center"><br><br>
+<img title="CSS" src="/assets/langs/logo-css-3-256.png" width="40px" align="center"><br>
 
 <img title="Markdown" src="/assets/langs/4518935_markdown_icon.png" width="40px" align="center">&nbsp;
 <img title="JSON" src="/assets/langs/json-logo-png-transparent.png" width="40px" align="center"><br><br>
