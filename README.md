@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="/assets/raining.gif" width="750" />
+<img src="/assets/gifs/raining.gif" width="750" />
 
 </div>
 
