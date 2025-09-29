@@ -8,6 +8,7 @@
 
 <!-- Apresentação -->
 <div align="center">
+
 ## Presentation
 
 </div>
@@ -20,11 +21,13 @@ A curious front-end programmer, who seeks more and more knowledge every day, aim
 > Being the richest man in the cemetery doesn't interest me. <br>
 > Going to bed at night saying I did something wonderful is what matters to me. <br>
 > ~ **Steve Jobs**
+
 </div>
 
 
 <!-- Tecnologias -->
 <div align="center">
+
 ## Technologies
 
 #### Languages / Libs / FrameWorks
@@ -37,11 +40,13 @@ A curious front-end programmer, who seeks more and more knowledge every day, aim
 
 #### Tools
 [![My Languages](https://skillicons.dev/icons?i=vscode,git,github,npm,vite&perline=3)](https://skillicons.dev)
+
 </div><br>
 
 
 <!-- Estatisticas -->
 <div align="center">
+
 ## Statistics
 
 </div>
@@ -49,4 +54,5 @@ A curious front-end programmer, who seeks more and more knowledge every day, aim
 <div align="center">
 
 ![Metrics](/github-metrics.svg)
+
 </div>
