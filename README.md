@@ -5,7 +5,6 @@
 
 </div>
 
-
 <!-- Apresentação -->
 <div align="center">
 
@@ -15,7 +14,10 @@
 
 <div align="center">
 
-A curious front-end programmer, who seeks more and more knowledge every day, aiming to become a full-stack developer in the future. Lover of TypeScript, Clean Code, and everything that makes a programmer's eyes shine.<br>
+Full-stack developer focused on building scalable web applications, connecting frontend with backend.
+Strongly experienced with TypeScript across the stack and a pragmatic approach to writing clean, maintainable, and scalable code.
+Constantly improving through real-world projects, architectural decisions, and pragmatic problem-solving.<br>
+
 <!-- [See my full presentation! ☕]() -->
 
 > Being the richest man in the cemetery doesn't interest me. <br>
@@ -24,25 +26,24 @@ A curious front-end programmer, who seeks more and more knowledge every day, aim
 
 </div>
 
-
 <!-- Tecnologias -->
 <div align="center">
 
 ## Technologies
 
 #### Languages / Libs / FrameWorks
-[![My Languages](https://skillicons.dev/icons?i=js,ts,nodejs,tailwind,react,nextjs&perline=3)](https://skillicons.dev)<br><br>
 
+[![My Languages](https://skillicons.dev/icons?i=js,ts,nodejs,tailwind,react,nextjs,express&perline=3)](https://skillicons.dev)<br><br>
 
 #### Others Langs
+
 [![My Languages](https://skillicons.dev/icons?i=html,css,md&perline=3)](https://skillicons.dev)<br><br>
 
-
 #### Tools
-[![My Languages](https://skillicons.dev/icons?i=vscode,git,github,npm,vite&perline=3)](https://skillicons.dev)
+
+[![My Languages](https://skillicons.dev/icons?i=vscode,git,github,pnpm,vite&perline=3)](https://skillicons.dev)
 
 </div><br>
-
 
 <!-- Estatisticas -->
 <div align="center">
